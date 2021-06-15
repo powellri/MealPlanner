@@ -1,2 +1,2 @@
 # MealPlanner
-Angular and .NET Core 5
+Blazor and .NET Core 5
